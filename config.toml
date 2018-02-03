@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dfdance.github.io"
 languageCode = "en-us"
 title = "子轩素面朝天"
 theme = "hugo-nuo"

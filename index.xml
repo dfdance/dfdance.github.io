@@ -7,18 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-<<<<<<< Updated upstream
-    <lastBuildDate>Fri, 09 Feb 2018 22:29:19 +0800</lastBuildDate>
-=======
     <lastBuildDate>Sun, 27 May 2018 16:59:40 +0800</lastBuildDate>
->>>>>>> Stashed changes
     
 	<atom:link href="https://dfdance.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< Updated upstream
-=======
       <title>皮囊书记</title>
       <link>https://dfdance.github.io/post/pinang_book/</link>
       <pubDate>Sun, 27 May 2018 16:59:40 +0800</pubDate>
@@ -28,7 +22,6 @@
     </item>
     
     <item>
->>>>>>> Stashed changes
       <title>忙碌的工作</title>
       <link>https://dfdance.github.io/post/hard_work/</link>
       <pubDate>Fri, 09 Feb 2018 22:29:19 +0800</pubDate>

@@ -1,5 +1,5 @@
 ---
-title: "Hello_word"
+title: "Hello_world"
 date: 2018-05-27T23:14:53+08:00
 draft: flase
 categories: technology

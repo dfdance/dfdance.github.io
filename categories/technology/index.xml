@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on 子轩素面朝天</title>
+    <link>https://dfdance.github.io/categories/technology/</link>
+    <description>Recent content in Technology on 子轩素面朝天</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 27 May 2018 23:14:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://dfdance.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello_word</title>
+      <link>https://dfdance.github.io/post/hello_word/</link>
+      <pubDate>Sun, 27 May 2018 23:14:53 +0800</pubDate>
+      
+      <guid>https://dfdance.github.io/post/hello_word/</guid>
+      <description>准备开始写技术的博客啦，会记录我平时所碰到的问题，也许对大牛来说会so easy，不过还是希望以后能帮到一些小伙伴!</description>
+    </item>
+    
+  </channel>
+</rss>

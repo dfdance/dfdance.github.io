@@ -17,16 +17,28 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "Home"
+  name = "主页"
   weight = 10
   identifier = "home"
   url = "/"
 
 [[menu.main]]
-  name = "Works"
+  name = "技术"
   weight = 20
   identifier = "works"
-  url = "https://github.com/dfdance"
+  url = "https://dfdance.github.io/categories/technology"
+
+[[menu.main]]
+  name = "生活思考"
+  weight = 20
+  identifier = "life"
+  url = "https://dfdance.github.io/categories/life"
+
+[[menu.main]]
+  name = "书评&影评"
+  weight = 20
+  identifier = "book_movie"
+  url = "https://dfdance.github.io/categories/book_movie"
 
 [[menu.main]]
   name = "Tags"

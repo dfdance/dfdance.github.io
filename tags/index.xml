@@ -7,9 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+<<<<<<< Updated upstream
+=======
+    <lastBuildDate>Fri, 09 Feb 2018 22:29:19 +0800</lastBuildDate>
+>>>>>>> Stashed changes
     
 	<atom:link href="https://dfdance.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+<<<<<<< Updated upstream
+=======
+    <item>
+      <title>Life</title>
+      <link>https://dfdance.github.io/tags/life/</link>
+      <pubDate>Fri, 09 Feb 2018 22:29:19 +0800</pubDate>
+      
+      <guid>https://dfdance.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> Stashed changes
   </channel>
 </rss>

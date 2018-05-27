@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< Updated upstream
+=======
+    <loc>https://dfdance.github.io/post/pinang_book/</loc>
+    <lastmod>2018-05-27T16:59:40+08:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> Stashed changes
     <loc>https://dfdance.github.io/post/hard_work/</loc>
     <lastmod>2018-02-09T22:29:19+08:00</lastmod>
   </url>
@@ -18,24 +26,60 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>https://dfdance.github.io/categories/</loc>
+=======
+    <loc>https://dfdance.github.io/categories/book_movie/</loc>
+    <lastmod>2018-05-27T16:59:40+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://dfdance.github.io/categories/</loc>
+    <lastmod>2018-05-27T16:59:40+08:00</lastmod>
+>>>>>>> Stashed changes
+    <priority>0</priority>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
     <loc>https://dfdance.github.io/post/</loc>
+=======
+    <loc>https://dfdance.github.io/tags/life/</loc>
     <lastmod>2018-02-09T22:29:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dfdance.github.io/categories/life/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2018-02-09T22:29:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
+    <loc>https://dfdance.github.io/tags/</loc>
+=======
+    <loc>https://dfdance.github.io/post/</loc>
+    <lastmod>2018-05-27T16:59:40+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dfdance.github.io/tags/</loc>
+    <lastmod>2018-02-09T22:29:19+08:00</lastmod>
+>>>>>>> Stashed changes
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dfdance.github.io/</loc>
+<<<<<<< Updated upstream
     <lastmod>2018-02-09T22:29:19+08:00</lastmod>
+=======
+    <lastmod>2018-05-27T16:59:40+08:00</lastmod>
+>>>>>>> Stashed changes
     <priority>0</priority>
   </url>
   
